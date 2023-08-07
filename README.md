@@ -44,4 +44,3 @@ JSON files encapsulate game events, encompassing event name, description, and ti
 - Practice parsing JSON files to extract essential game event details.
 
 ---
-*Note: This README provides a comprehensive project overview. For in-depth technical insights, consult the project documentation and source code.*
